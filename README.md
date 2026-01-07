@@ -49,7 +49,7 @@
 
 ### 🛠 Tools & Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,mongodb,vercel,vite,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,mongodb,vercel,vite,mysql,androidstudio&perline=8" />
 </p>
 
 
